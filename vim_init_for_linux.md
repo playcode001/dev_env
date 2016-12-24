@@ -2,6 +2,7 @@
 
 - git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
 - vim ~/.vimrc
+```
 set nocompatible              " be iMproved, required
 filetype off
 set rtp+=~/.vim/bundle/vundle/
@@ -27,3 +28,4 @@ Bundle 'Pydiction'
 Bundle 'c.vim'
 
 call vundle#end()            " required
+```
